@@ -1,0 +1,34 @@
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-top: 50px;
+}
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 50px;
+  font: outline;
+  font-stretch: expanded;
+}
+
+/* .container{ */
+
+  /* border-style: outset */
+/* } */
+
+/* body{ */
+
+  /* background-color: #aaaa */
+/* } */
+
+head{
+  border-style: outset;
+  background-color: #aaaa
+}
+
+#loadBtn{
+  background-color: #286090;
+}
+
+
+
